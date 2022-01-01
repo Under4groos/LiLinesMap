@@ -1,0 +1,17 @@
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\bin\Debug\LiLinesMap.exe.config
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\bin\Debug\LiLinesMap.exe
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\bin\Debug\LiLinesMap.pdb
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap.csproj.SuggestedBindingRedirects.cache
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\MainWindow.g.cs
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\App.g.cs
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap_MarkupCompile.cache
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap_MarkupCompile.lref
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\MainWindow.baml
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap.g.resources
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap.Properties.Resources.resources
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap.csproj.GenerateResource.cache
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap.exe
+C:\Users\UnderKo\source\repos\LiLinesMap\LiLinesMap\obj\Debug\LiLinesMap.pdb
